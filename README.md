@@ -3,7 +3,7 @@
  <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) <br>
-  취업에 목마른 취준생🌱
+  취업에 목마른 안드로이드 취준생🌱
  </div>
 
 
