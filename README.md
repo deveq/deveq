@@ -1,8 +1,8 @@
-<center>### Hi there 👋</center>
+### Hi there 👋
 
 
 
-취업에 목마른 취준생🌱</center>
+<center>취업에 목마른 취준생🌱</center>
 
 <!--
 
