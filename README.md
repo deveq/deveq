@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdeveq&count_bg=%2379C83D&title_bg=%23666666&icon=android.svg&icon_color=%232BFB2C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **deveq/deveq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+취업에 목마른 취준생🌱
