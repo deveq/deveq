@@ -1,4 +1,4 @@
- # 앱 개발자
+ # APPLICATION DEVELOPER
  
  <div align=center>
 	
