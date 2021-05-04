@@ -1,4 +1,4 @@
- # APPLICATION DEVELOPER
+ # REACT NATIVE, ANDROID, iOS
  
  <div align=center>
 	
